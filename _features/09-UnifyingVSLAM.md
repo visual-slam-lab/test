@@ -1,8 +1,14 @@
-      <div class="row" id="benchmarks">
-        <h2> Benchmarks </h2>
-        <table class="table">
-          <thead>
-            <tr>
+---
+id: Unifying Visual SLAM
+name: Unifying Visual SLAM
+heading: Unifying Visual SLAM
+div_class: lead
+# subheading: Will Catch Your Eye
+# image: "http://placehold.it/500x500"
+---
+<table>
+      <thead>
+       <tr>
               <th>Dataset/Approach</th>
               <th>Link</th>
               <th>Placeholder Column 3</th>
@@ -16,5 +22,4 @@
             </tr>
           </tbody>
         </table>     
-        </div>
       
