@@ -9,16 +9,16 @@ div_class: lead
 <table>
       <thead>
        <tr>
-              <th>Dataset/Approach</th>
-              <th>Link</th>
-              <th>Placeholder Column 3</th>
+              <th>Resource</th>
+              <th>Description</th>
+              <th>Comments</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td>Placeholder Dataset</td>
-              <td>Placeholder Link</td>
-              <td>Placeholder item column 3</td>
+              <td>pySLAM</td>
+              <td>A python implementation of a Visual SLAM pipeline that supports monocular, stereo and RGBD cameras.</td>
+              <td>-</td>
             </tr>
           </tbody>
         </table>     
