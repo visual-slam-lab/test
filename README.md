@@ -1,2 +1,2 @@
-# Longterm-Perception-WS
-Website for the workshop on "Long-term Perception for Autonomy in Dynamic Human-shared Environments: What do Robots Need?".
+# Unifying-Visual-SLAM-WS
+Website for the workshop on "Unifying Visual SLAM: From Fragmented Datasets to Scalable, Real-World Solutions ".
