@@ -21,7 +21,7 @@ div_class: lead
               <td>-</td>
             </tr>
              <tr>
-              <td><a href="https://github.com/luigifreda/pyslam">slamplay</a></td>
+              <td><a href="https://github.com/luigifreda/slamplay">slamplay</a></td>
               <td>A collection of powerful tools to start playing and experimenting with SLAM in C++.</td>
               <td>-</td>
             </tr>    
