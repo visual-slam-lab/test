@@ -41,10 +41,10 @@ Papers that have previously been published will mainly be evaluated on the first
 <div style="height: 10px;"></div> 
 
 
-### <strong>Call for Demonstrations</strong>
+<!-- ### <strong>Call for Demonstrations</strong>
 We invite live demonstrations during the poster session. These can either accompany a submitted paper or be standalone. For standalone demonstrations, please submit an up to two pages description and/or video of the demo. Demos will be evaluated on recency and relevance to the workshop.
 
-<div style="height: 10px;"></div> 
+<div style="height: 10px;"></div> --> 
 
 <!-- ### <strong>Submissions Portal</strong>
 Please submit your paper via [CMT](https://cmt3.research.microsoft.com/IROSLTP2024/Track/1/Submission/Create).
