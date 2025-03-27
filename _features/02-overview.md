@@ -7,7 +7,7 @@ div_class: lead
 # image: "http://placehold.it/500x500"
 ---
 
-</b>Is Visual SLAM Tackling the Right Challenges?</b> While fields like image segmentation and reinforcement learning have thrived by leveraging vast amounts of unstructured data, visual SLAM remains constrained by a handful of curated benchmarks. This limitation hinders the development of scalable, robust systems capable of operating in a wide range of complex, real-world environments. 
+<b>Is Visual SLAM Tackling the Right Challenges?</b> While fields like image segmentation and reinforcement learning have thrived by leveraging vast amounts of unstructured data, visual SLAM remains constrained by a handful of curated benchmarks. This limitation hinders the development of scalable, robust systems capable of operating in a wide range of complex, real-world environments. 
 
 Fragmentation across datasets, pipelines, and evaluation metrics remains a core obstacle. Each dataset follows its own structure, making reproducibility and benchmarking difficult. Researchers frequently spend time adapting to dataset-specific requirements instead of driving fundamental advancements. Additionally, compiling baseline systems is a challenge due to the lack of standardized pipelines, undocumented dataset-specific issues, and inconsistent failure cases. This fragmentation significantly slows down progress in the field.
 
