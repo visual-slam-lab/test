@@ -1,5 +1,11 @@
+- name: Alejandro Fontan 
+  image: /assets/images/alejandro_fontan.jpeg
+  web: https://www.qut.edu.au/about/our-people/academic-profiles/alejandro.fontan
+  position: Postdoctoral Research Fellow
+  affiliation: Queensland University of Technology
+
 - name: Lukas Schmid
-  image: /assets/images/lukas.png
+  image: /assets/images/lukas_schmid.jpeg
   web: https://schmluk.github.io/
   position: Postdoctoral Research Fellow
   affiliation: Massachusetts Institute of Technology
