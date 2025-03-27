@@ -16,7 +16,7 @@ div_class: lead
           </thead>
           <tbody>
             <tr>
-              <td>pySLAM</td>
+              <td><a href="https://github.com/luigifreda/pyslam">PySLAM</a></td>
               <td>A python implementation of a Visual SLAM pipeline that supports monocular, stereo and RGBD cameras.</td>
               <td>-</td>
             </tr>
