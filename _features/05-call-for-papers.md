@@ -19,7 +19,7 @@ We invite short papers of novel or recently published research relevant to the t
 <div style="height: 10px;"></div> 
 
 ### <strong>Invited topics</strong>
-We invite contributions from the areas of:
+We invite <b>short papers (2+n pages, IEEE format)</b> showcasing innovative research. Selected papers will be presented in a poster session, with dedicated Slack/Discord channels to foster collaboration beyond the workshop. <b>We invite submissions including, but not limited to:</b>
 * Scene and object representations
 * Long-term mapping and scene understanding
 * Open-set scene understanding and foundation models
