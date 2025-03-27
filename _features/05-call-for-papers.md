@@ -7,7 +7,7 @@ div_class: lead
 # image: "http://placehold.it/500x500"
 ---
 
-We invite short papers of novel or recently published research relevant to the topics of the workshop.
+We invite <b>short papers</b> of novel or recently published research relevant to the topics of the workshop.
 * Short papers are 2+n pages (2 pages content + references)
 * Submissions must follow the [IEEE Conference double column format](https://www.ieee.org/conferences/publishing/templates.html)
 * All accepted papers will be presented as posters at the workshop and published on the workshop website.
@@ -19,14 +19,14 @@ We invite short papers of novel or recently published research relevant to the t
 <div style="height: 10px;"></div> 
 
 ### <strong>Invited topics</strong>
-We invite <b>short papers (2+n pages, IEEE format)</b> showcasing innovative research. Selected papers will be presented in a poster session, with dedicated Slack/Discord channels to foster collaboration beyond the workshop. <b>We invite submissions including, but not limited to:</b>
-* Scene and object representations
-* Long-term mapping and scene understanding
-* Open-set scene understanding and foundation models
-* Motion and change detection
-* Prediction and planning in dynamic and changing scenes
-* Safety in perception, planning and prediction
-* Continual and lifelong learning
+<b>We invite submissions including, but not limited to:</b>
+* SLAM Systems and Applications: Novel approaches in SLAM, Visual Odometry, 3D Reconstruction, and Visual Place Recognition (VPR), with applications in robotics, autonomous vehicles, AR/VR, and more.
+
+* <b>Tool Integration and Standardization</b>: Open-source tools and libraries for SLAM, improving baseline evaluations, and streamlining benchmarking processes.
+* <b>Benchmarking and Reproducibility</b>: Standardization of datasets and evaluation methodologies, addressing challenges such as low-light conditions, harsh weather, and dynamic environments.
+* <b>New Evaluation Metrics and Benchmarking Tools</b>: Methods and platforms to assess localization and mapping performance more effectively.
+* <b>Future Directions and Industrial Applications</b>: The role of AI and machine learning in SLAM, and real-world applications in industry, commercial robotics, and emerging technologies.
+
 
 ### <strong>Review Criteria</strong>
 
