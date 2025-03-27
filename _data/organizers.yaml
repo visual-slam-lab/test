@@ -10,29 +10,29 @@
   position: Postdoctoral Research Fellow
   affiliation: Massachusetts Institute of Technology
 
-- name: Luca Carlone
-  image: /assets/images/luca.png
-  web: https://lucacarlone.mit.edu/
-  position: Associate Professor
-  affiliation: Massachusetts Institute of Technology
-  
-- name: Roland Siegwart
-  image: /assets/images/roland.png
-  web: https://asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html
-  position: Full Professor
+- name: Olga Vysotska
+  image: /assets/images/olga_vysotska.jpeg
+  web: https://cvg.ethz.ch/team/Dr-Olga-Vysotsk
+  position: Postdoctoral Research Fellow
   affiliation: ETH Zurich
+  
+- name: Mubariz Zaffar
+  image: /assets/images/mubariz_zaffar.jpeg
+  web: https://www.linkedin.com/in/mubarizzaffar/?originalSubdomain=nl
+  position: PhD Candidate
+  affiliation: TU Delft 
 
-- name: Rajat Talak
-  image: /assets/images/rajat.jpg
-  web: https://www.rajattalak.com/
-  position: Research Scientist
-  affiliation: Massachusetts Institute of Technology  
-
-- name: Olov Anderson
-  image: /assets/images/olovand.png
-  web: https://www.kth.se/profile/olovand
-  position: Assistant Professor
-  affiliation: KTH Royal Institute of Technology
+- name: Linfei Pan
+  image: /assets/images/linfei_pan.jpg
+  web: https://lpanaf.github.io/
+  position: PhD Candidate
+  affiliation: ETH Zurich
+  
+- name: Gokul B. Nair
+  image: /assets/images/gokul_b_nair.jpg
+  web: https://gokulbnr.github.io/
+  position: PhD Candidate
+  affiliation: Queensland University of Technology
 
 - name: Helen Oleynikova
   image: /assets/images/helen.jpg
