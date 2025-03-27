@@ -56,9 +56,10 @@ Please submit your paper via [CMT](https://cmt3.research.microsoft.com/IROSLTP20
 <div style="height: 10px;"></div> 
 
 |----------------|------------------------------|
-| July 1         | Call for submissions         |
-| ~~September 1~~  <span style="color:red;">September 21</span> | Submissions due |
-| September 30   | Notification of acceptance   |
-| October 14     | Workshop at IROS!            |
+| April 7        | Call for submissions         |
+| May 5 | Submissions due |
+<!--| ~~September 1~~  <span style="color:red;">September 21</span> | Submissions due |-->
+| June 2   | Notification of acceptance   |
+| June 21     | Workshop at RSS!            |
 
 <!-- <strong>Submission Website:</strong> TBD -->
