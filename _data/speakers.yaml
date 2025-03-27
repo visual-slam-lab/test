@@ -1,35 +1,41 @@
-- name: Iro Armeni 
-  image: /assets/images/iro.png
-  web: https://ir0.github.io/
+- name: Hermann Blum 
+  image: /assets/Blum_Hermann.jpg
+  web: https://hermannblum.net/
   position: Assistant Professor
-  affiliation: Stanford University
+  affiliation: Uni Bonn
 
-- name: Jen Jen Chung
-  image: /assets/images/Jen.jpeg
-  web: https://jenjenchung.github.io/anthropomorphic/
-  position: Associate Professor
-  affiliation: The University of Queensland
-
-- name: Stefan Leutenegger
-  image: /assets/images/stefan.jpg
-  web: https://www.professoren.tum.de/en/leutenegger-stefan
+- name: Angela Dai
+  image: /assets/Angela.jpeg
+  web: https://www.professoren.tum.de/en/dai-angela
+  position: Professor
+  affiliation: TU Munich
+  
+- name: Tobias Fischer
+  image: /assets/TobiFischer.webp
+  web: https://www.ri.cmu.edu/ri-faculty/wenshan-wang/
   position: Assistant Professor
-  affiliation: Technical University of Munich
+  affiliation: QUT
 
-- name: Francesco Milano
-  image: /assets/images/francesco.jpg
-  web: https://www.linkedin.com/in/francesco-milano-ba5483132/?originalSubdomain=ch
-  position: Ph.D. Student
-  affiliation: ETH Zurich
+- name: Wenshan Wang
+  image: /assets/WenshanWang.jpeg
+  web: https://www.tobiasfischer.info/
+  position: Systems Scientist
+  affiliation: CMU
 
-- name: Michael Milford
-  image: /assets/images/michael.jpg
-  web: https://www.qut.edu.au/about/our-people/academic-profiles/michael.milford
-  position: Professor
-  affiliation: Queensland University of Technology
+- name: Luigi Freda
+  image: /assets/LuigiFreda.jpg
+  web: https://www.luigifreda.com/
+  position: Principal Perception Engineer
+  affiliation: Dexory
 
-- name: Marc Pollefeys
-  image: /assets/images/marc.jpg
-  web: https://people.inf.ethz.ch/marc.pollefeys/
-  position: Professor
-  affiliation: ETH Zurich, Microsoft
+- name: Shehryar Khattak
+  image: /assets/ShehryarKhattak.jpeg
+  web: https://www.linkedin.com/in/shehryar-khattak/
+  position: Robot Technologist
+  affiliation: NASA Jet Propulsion Lab
+
+- name: Tomasz Bednarz
+  image: /assets/TomszBednarz.jpeg
+  web: https://www.linkedin.com/in/tomaszpbednarz/
+  position: Director, Strategic Researcher Engagement
+  affiliation: NVIDIA
