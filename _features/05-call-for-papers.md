@@ -19,9 +19,8 @@ We invite <b>short papers</b> of novel or recently published research relevant t
 <div style="height: 10px;"></div> 
 
 ### <strong>Invited topics</strong>
-<b>We invite submissions including, but not limited to:</b>
-* SLAM Systems and Applications: Novel approaches in SLAM, Visual Odometry, 3D Reconstruction, and Visual Place Recognition (VPR), with applications in robotics, autonomous vehicles, AR/VR, and more.
-
+We invite submissions including, but not limited to:
+* <b>SLAM Systems and Applications</b>: Novel approaches in SLAM, Visual Odometry, 3D Reconstruction, and Visual Place Recognition (VPR), with applications in robotics, autonomous vehicles, AR/VR, and more.
 * <b>Tool Integration and Standardization</b>: Open-source tools and libraries for SLAM, improving baseline evaluations, and streamlining benchmarking processes.
 * <b>Benchmarking and Reproducibility</b>: Standardization of datasets and evaluation methodologies, addressing challenges such as low-light conditions, harsh weather, and dynamic environments.
 * <b>New Evaluation Metrics and Benchmarking Tools</b>: Methods and platforms to assess localization and mapping performance more effectively.
@@ -47,10 +46,10 @@ We invite live demonstrations during the poster session. These can either accomp
 
 <div style="height: 10px;"></div> 
 
-### <strong>Submissions Portal</strong>
+<!-- ### <strong>Submissions Portal</strong>
 Please submit your paper via [CMT](https://cmt3.research.microsoft.com/IROSLTP2024/Track/1/Submission/Create).
 
-<div style="height: 10px;"></div> 
+<div style="height: 10px;"></div> -->
 
 ### <strong>Submissions Timeline</strong>
 
