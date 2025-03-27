@@ -20,6 +20,11 @@ div_class: lead
               <td>A python implementation of a Visual SLAM pipeline that supports monocular, stereo and RGBD cameras.</td>
               <td>-</td>
             </tr>
+             <tr>
+              <td><a href="https://github.com/luigifreda/pyslam">PySLAM</a></td>
+              <td>A python implementation of a Visual SLAM pipeline that supports monocular, stereo and RGBD cameras.</td>
+              <td>-</td>
+            </tr>    
           </tbody>
         </table>     
       
