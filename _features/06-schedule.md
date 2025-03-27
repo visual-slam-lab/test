@@ -37,7 +37,7 @@ div_class: lead
             </tr>
             <tr>
               <td>09:30</td>
-              <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=PryclcMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=PryclcMAAAAJ:hqOjcs7Dif8C">Tartanair</a> and <a hef="https://arxiv.org/pdf/2307.07607">Subt-mrs</a> datasets to push the limits of visual SLAM </td>
+              <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=PryclcMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=PryclcMAAAAJ:hqOjcs7Dif8C">Tartanair</a> and <a href="https://arxiv.org/pdf/2307.07607">Subt-mrs</a> datasets to push the limits of visual SLAM </td>
               <td><a href="https://www.ri.cmu.edu/ri-faculty/wenshan-wang/">Wenshan Wang</a></td>
             </tr>
             <tr>
