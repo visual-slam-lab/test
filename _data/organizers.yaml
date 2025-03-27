@@ -23,44 +23,31 @@
   affiliation: TU Delft 
 
 - name: Linfei Pan
-  image: /assets/images/linfei_pan.jpg
+  image: /assets/images/linfei_pan.jpeg
   web: https://lpanaf.github.io/
   position: PhD Candidate
   affiliation: ETH Zurich
   
 - name: Gokul B. Nair
-  image: /assets/images/gokul_b_nair.jpg
+  image: /assets/images/gokul_b_nair.jpeg
   web: https://gokulbnr.github.io/
   position: PhD Candidate
   affiliation: Queensland University of Technology
 
-- name: Helen Oleynikova
-  image: /assets/images/helen.jpg
-  web: https://helenol.github.io/
-  position: Senior Researcher
-  affiliation: ETH Zurich
+- name: Johan Barthelemy.
+  image: /assets/images/johan_barthelemy.jpeg
+  web: ttps://scholars.uow.edu.au/johan-barthelemy"
+  position: Senior Developer
+  affiliation: NVIDIA
 
-- name: Jong Jin Park
-  image: /assets/images/jongjin.png
-  web: https://www.linkedin.com/in/jong-jin-park-b4885920?original_referer=https%3A%2F%2Fwww.google.com%2F
-  position: Principal Applied Scientist
-  affiliation: Amazon Lab126
+- name: Javier Civera.
+  image: /assets/images/javier_civera.jpeg
+  web: https://i3a.unizar.es/es/investigadores/javier-civera-sancho
+  position: Associate Professor
+  affiliation: Universidad de Zaragoza
 
-- name: Jianhao Zheng
-  image: /assets/images/jianhao.png
-  web: https://jianhao-zheng.github.io/
-  position: Ph.D. Student
-  affiliation: Stanford University
-
-- name: Johanna Wald
-  image: /assets/images/johanna.png
-  web: https://www.linkedin.com/in/waldj/
-  position: AR Software Engineer
-  affiliation: Google
-
-- name: Federico Tombari
-  image: /assets/images/federico.png
-  web: https://federicotombari.github.io/
-  position: Senior Staff Research Scientist and Manager
-  affiliation: Google, Technical University of Munich
-
+- name: Michael Milford
+  image: /assets/images/michael_milford.jpeg
+  web: https://www.qut.edu.au/research/michael-milford
+  position: Professor
+  affiliation: Queensland University of Technology
