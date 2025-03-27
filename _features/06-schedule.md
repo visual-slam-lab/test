@@ -6,28 +6,64 @@ div_class: lead
 # subheading: Will Seal the Deal.
 ---
 
-<table>
-  <thead>
-    <tr>
-      <th style="width: 15%;">Time</th>
-      <th style="width: 45%;">Talk</th>
-      <th style="width: 40%;">Comments</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>08:00-08:05</td><td><strong>Welcome Remarks</strong></td><td>Organizing Committee</td></tr>
-    <tr><td>08:05-08:30</td><td><strong>Plenary 1</strong>: d> <a href="https://github.com/luigifreda/pyslam">PySLAM</a> and <a href="https://github.com/luigifreda/slamplay">SlamPlay</a>
-    <a href="assets/speaker_slides/Plenary_Michael_Milford.pdf" style="text-decoration: none; color: #007bff;">[Slides]</a> </td><td> <td><a href="https://www.luigifreda.com/">Luigi Freda</td></tr>
-    <tr><td>14:35-15:00</td><td><strong>Plenary 2</strong>: The coupling of perception and interaction for object discovery and understanding <a href="assets/speaker_slides/Plenary_JenJen_Chung.pdf" style="text-decoration: none; color: #007bff;">[Slides]</a></td><td><a href="https://jenjenchung.github.io/anthropomorphic/">Jen Jen Chung (UQ)</a> & <a href="https://www.linkedin.com/in/francesco-milano-ba5483132/?originalSubdomain=ch">Francesco Milano (ETH) </a></td></tr>
-    <tr><td>15:00-15:25</td><td><strong>Plenary 3</strong>: State estimation and 3D scene understanding for mobile robots</td><td><a href="https://www.professoren.tum.de/en/leutenegger-stefan">Stefan Leutenegger (TUM)</a></td></tr>
-    <tr><td>15:25-15:45</td><td><strong>Spotlight Talks</strong></td><td>Presentations of award finalists selected from the submission to the workshop</td></tr>
-    <tr><td></td><td>Moving Object Segmentation in Point Cloud Data using Hidden Markov Models</td><td>Vedant Bhandari, Jasmin James, Tyson Phillips, and Ross McAree</td></tr>
-    <tr><td></td><td>Taxonomy-Aware Class-Incremental Semantic Segmentation for Open-World Perception</td><td>Julia Hindel, Daniele Cattaneo, and Abhinav Valada</td></tr>
-    <tr><td></td><td>DUFOMap: Efficient Dynamic Awareness Mapping</td><td>Qingwen Zhang, Daniel Duberg, Mingkai Ji, and Patric Jensfelt</td></tr>
-    <tr><td>15:45-16:30</td><td><strong>Coffee Break & Poster + Demo Session</strong></td><td>Accepted posters and demos</td></tr>
-    <tr><td>16:30-16:55</td><td><strong>Plenary 4</strong>: Spatial AI for Robotics and MR</td><td><a href="https://people.inf.ethz.ch/marc.pollefeys/">Marc Pollefeys (Microsoft and ETH)</a></td></tr>
-    <tr><td>16:55-17:20</td><td><strong>Plenary 5</strong>: Spatiotemporal 3D Scene Understanding <a href="assets/speaker_slides/Plenary_Iro_Armeni.pdf" style="text-decoration: none; color: #007bff;">[Slides]</a></td><td><a href="https://ir0.github.io/">Iro Armeni (Stanford)</a></td></tr>
-    <tr><td>17:20-17:50</td><td><strong>Interactive Discussion</strong></td><td>Guided group discussions of mixed groups consisting of invited speakers, organizers, junior researchers with posters, and other attendees.</td></tr>
-    <tr><td>17:50-18:00</td><td><strong>Closing Remarks</strong></td><td>Organizing Committee</td></tr>
-  </tbody>
-</table>
+      <table class="table">
+          <thead>
+            <tr>
+              <th>Time</th>
+              <th>Planned Event</th>
+              <th>Comments</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>08:00</td>
+              <td>Opening Remarks</td>
+              <td>Organizing Committee</td>
+            </tr>
+            <tr>
+              <td>08:05</td>
+              <td> <a href="https://github.com/luigifreda/pyslam">PySLAM</a> and <a href="https://github.com/luigifreda/slamplay">SlamPlay</a> </td>
+              <td><a href="https://www.luigifreda.com/">Luigi Freda</a></td>
+            </tr>
+            <tr>
+              <td>08:30</td>
+              <td><a href="https://ros2wasm.dev/">ROS2WASM: Bringing the Robot Operating System to the Web</a></td>
+              <td><a href="https://www.tobiasfischer.info/">Tobias Fischer</a></td>
+            </tr>
+            <tr>
+              <td>09:00</td>
+              <td><a href="https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam">Isaac ROS Visual SLAM</a></td>
+              <td><a href="https://www.linkedin.com/in/tomaszpbednarz/">Tomasz Bednarz</a></td>
+            </tr>
+            <tr>
+              <td>09:30</td>
+              <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=PryclcMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=PryclcMAAAAJ:hqOjcs7Dif8C">Tartanair</a> and <a hef="https://arxiv.org/pdf/2307.07607">Subt-mrs</a> datasets to push the limits of visual SLAM </td>
+              <td><a href="https://www.ri.cmu.edu/ri-faculty/wenshan-wang/">Wenshan Wang</a></td>
+            </tr>
+            <tr>
+              <td>10:00</td>
+              <td>Poster Session/Coffee Break</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>10:30</td>
+              <td><a href="https://kaldir.vc.in.tum.de/scannetpp/">Scannet++: A high-fidelity dataset of 3d indoor scenes</a></td>
+              <td><a href="https://www.professoren.tum.de/en/dai-angela">Angela Dai</a></td>
+            </tr>
+            <tr>
+              <td>11:00</td>
+              <td>Simplifying visual SLAM for large-scale and multi-device solutions: Do we really need maps?</td>
+              <td><a href="https://hermannblum.net/">Hermann Blum</a></td>
+            </tr>
+            <tr>
+              <td>11:30</td>
+              <td><a href="https://arxiv.org/abs/2208.01787">Present and future of SLAM in extreme environments</a></td>
+              <td><a href="https://www.linkedin.com/in/shehryar-khattak/">Shehryar Khattak</a></td>
+            </tr>
+            <tr>
+              <td>12:00</td>
+              <td><b>Unifying Visual SLAM</b>: From Fragmented Datasets to Scalable, Real-World Solutions</td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
