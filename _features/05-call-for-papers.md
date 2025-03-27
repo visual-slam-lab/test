@@ -27,7 +27,7 @@ We invite submissions including, but not limited to:
 * <b>Future Directions and Industrial Applications</b>: The role of AI and machine learning in SLAM, and real-world applications in industry, commercial robotics, and emerging technologies.
 
 
-### <strong>Review Criteria</strong>
+<!-- ### <strong>Review Criteria</strong>
 
 Novel submission will be evaluated on:
 * Relevance to the topics of the workshop
@@ -38,7 +38,7 @@ Novel submission will be evaluated on:
 
 Papers that have previously been published will mainly be evaluated on the first two points (relevance and recency). If so, please mention in the submission where it has been published.
 
-<div style="height: 10px;"></div> 
+<div style="height: 10px;"></div> -->
 
 
 <!-- ### <strong>Call for Demonstrations</strong>
@@ -58,8 +58,9 @@ Please submit your paper via [CMT](https://cmt3.research.microsoft.com/IROSLTP20
 |----------------|------------------------------|
 | April 7        | Call for submissions         |
 | May 5 | Submissions due |
-<!--| ~~September 1~~  <span style="color:red;">September 21</span> | Submissions due |-->
 | June 2   | Notification of acceptance   |
 | June 21     | Workshop at RSS!            |
+
+<!--| ~~September 1~~  <span style="color:red;">September 21</span> | Submissions due |-->
 
 <!-- <strong>Submission Website:</strong> TBD -->
