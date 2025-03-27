@@ -6,7 +6,7 @@ div_class: lead
 # subheading: Will Seal the Deal.
 ---
 
-      <table class="table">
+<table>
           <thead>
             <tr>
               <th>Time</th>
