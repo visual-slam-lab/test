@@ -15,6 +15,7 @@ We invite <b>short papers</b> of novel or recently published research relevant t
 * All accepted submissions will be considered for the best presentation award, where 3 finalists will be selected for 5-minute plenary presentations. While all submissions are eligible, novelty will be considered in finalist selection.
 * Submissions are single blind and will be reviewed by members of the (extended) workshop committee.
 * Submissions can optionally be accompanied by a video.
+* <b>All accepted submissions will be considered for three awards: Best Paper, Best Poster, and Best Open-Source Contribution, each receiving a 150 USD gift card.</b>
 
 <div style="height: 10px;"></div> 
 
