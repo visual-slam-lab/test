@@ -36,7 +36,7 @@
 
 - name: Johan Barthelemy.
   image: /assets/images/johan_barthelemy.jpeg
-  web: ttps://scholars.uow.edu.au/johan-barthelemy"
+  web: https://scholars.uow.edu.au/johan-barthelemy"
   position: Senior Developer
   affiliation: NVIDIA
 
