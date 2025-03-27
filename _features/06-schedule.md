@@ -15,9 +15,9 @@ div_class: lead
     </tr>
   </thead>
   <tbody>
-    <tr><td>14:00-14:10</td><td><strong>Welcome Remarks</strong></td><td>Organizing Committee</td></tr>
-    <tr><td>14:10-14:35</td><td><strong>Plenary 1</strong>: Trusted and introspective positioning systems for people and their machines
-    <a href="assets/speaker_slides/Plenary_Michael_Milford.pdf" style="text-decoration: none; color: #007bff;">[Slides]</a> </td><td><a href="https://www.qut.edu.au/about/our-people/academic-profiles/michael.milford">Michael Milford (QUT)</a></td></tr>
+    <tr><td>08:00-08:05</td><td><strong>Welcome Remarks</strong></td><td>Organizing Committee</td></tr>
+    <tr><td>08:05-08:30</td><td><strong>Plenary 1</strong>: d> <a href="https://github.com/luigifreda/pyslam">PySLAM</a> and <a href="https://github.com/luigifreda/slamplay">SlamPlay</a>
+    <a href="assets/speaker_slides/Plenary_Michael_Milford.pdf" style="text-decoration: none; color: #007bff;">[Slides]</a> </td><td> <td><a href="https://www.luigifreda.com/">Luigi Freda</td></tr>
     <tr><td>14:35-15:00</td><td><strong>Plenary 2</strong>: The coupling of perception and interaction for object discovery and understanding <a href="assets/speaker_slides/Plenary_JenJen_Chung.pdf" style="text-decoration: none; color: #007bff;">[Slides]</a></td><td><a href="https://jenjenchung.github.io/anthropomorphic/">Jen Jen Chung (UQ)</a> & <a href="https://www.linkedin.com/in/francesco-milano-ba5483132/?originalSubdomain=ch">Francesco Milano (ETH) </a></td></tr>
     <tr><td>15:00-15:25</td><td><strong>Plenary 3</strong>: State estimation and 3D scene understanding for mobile robots</td><td><a href="https://www.professoren.tum.de/en/leutenegger-stefan">Stefan Leutenegger (TUM)</a></td></tr>
     <tr><td>15:25-15:45</td><td><strong>Spotlight Talks</strong></td><td>Presentations of award finalists selected from the submission to the workshop</td></tr>
